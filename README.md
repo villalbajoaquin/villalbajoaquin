@@ -5,8 +5,8 @@
 ##
 
 <div>
-  <image height="220em" src="https://github-readme-stats.vercel.app/api?username=villalbajoaquin&show_icons=true&theme=github_dark" alt="stats">
-  <image height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villalbajoaquin&layout=compact&theme=github_dark" alt="langs">
+  <image height="180em" src="https://github-readme-stats.vercel.app/api?username=villalbajoaquin&show_icons=true&theme=github_dark" alt="stats">
+  <image height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villalbajoaquin&layout=compact&theme=github_dark" alt="langs">
 </div>
 
 ##
