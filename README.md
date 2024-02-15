@@ -26,10 +26,9 @@
   <a href="https://expressjs.com/es/">
     <img align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   </a>
-  <a href="https://es.reactjs.org/">
-    <img align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  
+  <a href="https://devdocs.io/c/">
+    <img align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />      
+  </a>  
   <a href="https://www.python.org/">
     <img align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a>
